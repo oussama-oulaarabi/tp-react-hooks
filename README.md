@@ -59,10 +59,10 @@ Pour chaque exercice :
 
 Etat de recherche avec debounce juste après l'insertion et après 1 second: 
 
-
-```
 ![](pictures/before.png)
 ![](pictures/after.png)
+```
+
 ### Exercice 2 : Context et Internationalisation
 #### Objectif : Gérer les préférences de langue
 
