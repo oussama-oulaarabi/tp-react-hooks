@@ -9,27 +9,30 @@ Ce TP a pour objectif de mettre en pratique l'utilisation des Hooks React (useSt
 git clone https://github.com/pr-daaif/tp-react-hooks.git
 cd tp-react-hooks
 ```
-
+![](pictures/clone.png)
 2. Créer votre propre dépôt sur Github et changer le remote :
 ```bash
 # Supprimer le remote origine
 git remote remove origin
-
+![](pictures/removeOrigine.png)
 # Ajouter votre nouveau remote
 git remote add origin https://github.com/[votre-username]/tp-react-hooks.git
-
+![](pictures/addRemote.png)
 # Premier push
 git push -u origin main
+![](pictures/push.png)
 ```
 
 3. Installer les dépendances :
 ```bash
 npm install
+![](pictures/npm-install.png)
 ```
 
 4. Lancer l'application :
 ```bash
 npm start
+![](pictures/start.png)
 ```
 
 ## Instructions pour le TP
@@ -53,8 +56,12 @@ Pour chaque exercice :
 
 _Votre réponse pour l'exercice 1 :_
 ```
+
 Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
+Etat de recherche avec debounce juste après l'insertion : 
+![](pictures/before.png)
+Etat de recherche avec debounce après 1 second : 
+![](pictures/after.png)
 ```
 
 ### Exercice 2 : Context et Internationalisation
