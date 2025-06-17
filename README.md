@@ -14,27 +14,29 @@ cd tp-react-hooks
 ```bash
 # Supprimer le remote origine
 git remote remove origin
-![](pictures/removeOrigine.png)
+
 # Ajouter votre nouveau remote
 git remote add origin https://github.com/[votre-username]/tp-react-hooks.git
-![](pictures/addRemote.png)
+
 # Premier push
 git push -u origin main
-![](pictures/push.png)
-```
 
+```
+![](pictures/removeOrigine.png)
+![](pictures/addRemote.png)
+![](pictures/push.png)
 3. Installer les dépendances :
 ```bash
 npm install
-![](pictures/npm-install.png)
-```
 
+```
+![](pictures/npm-install.png)
 4. Lancer l'application :
 ```bash
 npm start
-![](pictures/start.png)
-```
 
+```
+![](pictures/start.png)
 ## Instructions pour le TP
 
 Pour chaque exercice :
@@ -54,16 +56,13 @@ Pour chaque exercice :
 - [ ] 1.2 Implémenter le debounce sur la recherche
 - [ ] 1.3 Documenter votre solution ici
 
-_Votre réponse pour l'exercice 1 :_
-```
 
-Expliquez votre solution ici
-Etat de recherche avec debounce juste après l'insertion : 
+Etat de recherche avec debounce juste après l'insertion et après 1 second: 
+
+
+```
 ![](pictures/before.png)
-Etat de recherche avec debounce après 1 second : 
 ![](pictures/after.png)
-```
-
 ### Exercice 2 : Context et Internationalisation
 #### Objectif : Gérer les préférences de langue
 
