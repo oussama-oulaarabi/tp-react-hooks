@@ -87,8 +87,11 @@ anglais
 
 _Votre réponse pour l'exercice 3 :_
 ```
-Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
+[] Hook useDebounce:
+Ajout d’un délai avant la mise à jour d’une valeur.
+
+[] Hook useLocalStorage:
+Permet de stocker des valeurs dans localStorage pour éviter la perte de données après un rafraîchissement.
 ```
 
 ### Exercice 4 : Gestion Asynchrone et Pagination
