@@ -71,13 +71,11 @@ Etat de recherche avec debounce juste après l'insertion et après 1 second:
 - [ ] 2.3 Documenter votre solution ici
 
 _Votre réponse pour l'exercice 2 :
-```
+
 francais
-```
 ![](pictures/francais.png)
-```
+
 anglais
-```
 
 ![](pictures/anglais.png)
 ### Exercice 3 : Hooks Personnalisés
