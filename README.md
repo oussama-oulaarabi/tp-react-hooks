@@ -70,12 +70,16 @@ Etat de recherche avec debounce juste après l'insertion et après 1 second:
 - [ ] 2.2 Ajouter le sélecteur de langue
 - [ ] 2.3 Documenter votre solution ici
 
-_Votre réponse pour l'exercice 2 :_
+_Votre réponse pour l'exercice 2 :
 ```
-Expliquez votre solution ici
-[Ajoutez vos captures d'écran]
+francais
+```
+![](pictures/francais.png)
+```
+anglais
 ```
 
+![](pictures/anglais.png)
 ### Exercice 3 : Hooks Personnalisés
 #### Objectif : Créer des hooks réutilisables
 
